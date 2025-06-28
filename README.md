@@ -1,8 +1,8 @@
 ### Hello! My name is Willian Lopes. 👋🏻
 
-### I'm 20 years old and I'm a computer technician, currently studying data science. 👨🏻‍💻
+### I'm 21 years old and I'm a computer technician, currently studying data science. 👨🏻‍💻
 
-### I'm also a good chess player. ♟️
+### I'm also a chess player. ♟️
 
 ### Here are my social networks. 🔗
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/willian-lopes-030b2125b/)
