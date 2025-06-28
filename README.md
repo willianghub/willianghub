@@ -2,7 +2,7 @@
 
 ### I'm 21 years old and I'm a computer technician, currently studying data science. 👨🏻‍💻
 
-### I'm also a chess player. ♟️
+### I also like to play chess. ♟️
 
 ### Here are my social networks. 🔗
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/willian-lopes-030b2125b/)
